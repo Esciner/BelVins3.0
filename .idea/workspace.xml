@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="a085e866-3c5b-475b-ba34-00ee60752ba8" name="Default" comment="">
 <<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/form.php" afterPath="$PROJECT_DIR$/templates/form.php" />
@@ -17,6 +18,11 @@
 >>>>>>> refs/remotes/Esciner/master
 =======
     <list default="true" id="a085e866-3c5b-475b-ba34-00ee60752ba8" name="Default" comment="" />
+>>>>>>> Fondation
+=======
+    <list default="true" id="a085e866-3c5b-475b-ba34-00ee60752ba8" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/form.php" afterPath="$PROJECT_DIR$/templates/form.php" />
+    </list>
 >>>>>>> Fondation
     <ignored path="BelVins3.0.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,6 +45,7 @@
   <component name="FileEditorManager">
 <<<<<<< HEAD
     <leaf>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
@@ -68,11 +75,19 @@
             <state vertical-scroll-proportion="0.76632303">
               <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
 >>>>>>> Fondation
+=======
+      <file leaf-file-name="form.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.076923">
+              <caret line="50" column="52" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
+>>>>>>> Fondation
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="form.php" pinned="false" current-in-tab="false">
@@ -117,6 +132,12 @@
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
 =======
+=======
+      <file leaf-file-name="ajax.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/js/ajax.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.27960527">
+>>>>>>> Fondation
               <caret line="10" column="24" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="69" />
 >>>>>>> Fondation
               <folding />
@@ -214,8 +235,8 @@
         <option value="$PROJECT_DIR$/vendor/foundation-6/index.html" />
 =======
         <option value="$PROJECT_DIR$/vendor/foundation-6/css/foundation.css" />
-        <option value="$PROJECT_DIR$/templates/form.php" />
         <option value="$PROJECT_DIR$/templates/js/ajax.js" />
+<<<<<<< HEAD
 >>>>>>> Fondation
 =======
         <option value="$PROJECT_DIR$/templates/form.php" />
@@ -224,6 +245,9 @@
         <option value="$PROJECT_DIR$/templates/js/main.js" />
         <option value="$PROJECT_DIR$/public/index.php" />
 >>>>>>> refs/remotes/Esciner/master
+=======
+        <option value="$PROJECT_DIR$/templates/form.php" />
+>>>>>>> Fondation
       </list>
     </option>
   </component>
@@ -515,6 +539,7 @@
   <component name="ToolWindowManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
 <<<<<<< HEAD
     <editor active="false" />
@@ -524,6 +549,10 @@
 =======
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="false" />
+>>>>>>> Fondation
+=======
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
 >>>>>>> Fondation
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1239,21 +1268,26 @@
     </entry>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/vendor/foundation-6/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.20446736">
           <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="8" selection-end-column="48" />
 =======
     <entry file="file://$PROJECT_DIR$/templates/js/ajax.js">
+=======
+    <entry file="file://$PROJECT_DIR$/templates/form.php">
+>>>>>>> Fondation
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="69" />
+        <state vertical-scroll-proportion="-13.076923">
+          <caret line="50" column="52" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/form.php">
+    <entry file="file://$PROJECT_DIR$/templates/js/ajax.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1261,6 +1295,10 @@
 =======
         <state vertical-scroll-proportion="0.76632303">
           <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+>>>>>>> Fondation
+=======
+        <state vertical-scroll-proportion="0.27960527">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="69" />
 >>>>>>> Fondation
           <folding />
 =======
