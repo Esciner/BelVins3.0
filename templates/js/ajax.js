@@ -8,7 +8,7 @@ $(document).ready(function() {
             //Récupération des noms de vins
             var liste =[];
             for (var i in vins) {
-                $("#listeVin").append("<li data-id='"+vins[i].id+"'>" + vins[i].name + "</li>");
+                $("#listeVin").append("<li data-id='"+vins[i].id+"'>"+"<a href='#'>" + vins[i].name + "</a> </li>");
                 liste.push(vins[i].name);
             }
             //Animations du menu Vins
@@ -20,10 +20,10 @@ $(document).ready(function() {
                     $(this).removeClass('highlight');
                 },
                 click: function(){
-                    if ($("li").hasClass("selected"))
-                        $("li").removeClass("selected");
+                    if ($("li").hasClass("active"))
+                        $("li").removeClass("active");
                     if ($(this).hasClass("highlight")) {
-                        $(this).addClass("selected");
+                        $(this).addClass("active");
             //Publication des données sur le formulaire
                         var id_wine = $(this).index();
                         var traversing = $(this).closest("body");
@@ -100,9 +100,9 @@ $(document).ready(function() {
                         },
                         select : function(event, ui){
                             var choice = ui.item.value;
-                            $(this).closest("body").find("#listeVin li.selected").removeClass("selected");
-                            $(this).closest("body").find("#listeVin li:contains("+choice+")").addClass( "selected" );
-                            var vin = $(this).closest("body").find("#listeVin li.selected");
+                            $(this).closest("body").find("#listeVin li.active").removeClass("active");
+                            $(this).closest("body").find("#listeVin li:contains("+choice+")").addClass( "active" );
+                            var vin = $(this).closest("body").find("#listeVin li.active");
                             var id_wine = vin.data("id");
                             console.log(vins[id_wine]);
                             var traversing = $(this).closest("body");

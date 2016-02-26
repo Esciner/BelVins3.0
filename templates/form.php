@@ -4,23 +4,7 @@
     <meta charset="UTF-8">
     <title>Belvin</title>
     <style>
-        label, img, textarea {
-            display: block;
-        }
-        input,button, label, img {
-            margin: 5px;
-        }
-
-        #listeVin {
-            list-style-type: none;
-        }
-        li {
-            margin: 5px 0;
-        }
-        body {
-            font-family: sans-serif;
-        }
-        .highlight, .selected {
+        .highlight,.active {
             background-color: #800020;
             color: white;
         }
@@ -45,7 +29,15 @@
         .ui-helper-hidden-accessible {
             display:none;
         }
+
+        #listeVin li a {
+            color: #0a0a0a;
+        }
+        #listeVin li a:hover  {
+            color: white;
+        }
     </style>
+    <link rel="stylessheet" href="css/belvin.css" />
     <link rel="stylesheet" href="../vendor/foundation-6/css/foundation.css" />
     <link rel="stylesheet" href="../vendor/foundation-6/css/app.css" />
 </head>
@@ -53,14 +45,14 @@
     <div class="row">
         <div class="large-3  columns">
             <form id="frmSearchVin">
-                <input type="search" id="searchVin" name="searchVin"/>
+                <input type="search" id="searchVin" name="searchVin" class="f-dropdown"/>
             </form>
-            <ul id="listeVin">
+            <ul id="listeVin" class="menu vertical">
             </ul>
         </div>
         <!-- <form action="#" id="formVin" method="post"> <!-- $app->urlFor('ajoutWines');  retiré pour afficher le form-->
         <div class="large-6 columns clearfix">
-            <button type="button" id="btReset" name="btReset" class="button round">New</button>
+            <button type="button" id="btReset" name="btReset" class="button">New</button>
             <label for="idVin">Id:</label>
             <input type="text" id="idVin" name="name" maxlength="50"/>
             <label for="nameVin">Name:</label>
@@ -73,8 +65,9 @@
             <input type="text" id="regionVin" name="region" maxlength="50"/>
             <label for="yearVin">Year:</label>
             <input type="number" id="yearVin" name="year" min="1900" max="2100"/>
-            <button type="button" id="btSubmit" name="btSubmit" class="button success [radius round] right">Save</button>
-            <button type="button" id="btDelete" name="btDelete" class="button alert [radius round] right">Delete</button>
+            <button type="button" id="btSubmit" name="btSubmit" class="button success">Save</button>
+            <button type="button" id="btDelete" name="btDelete" class="button alert">Delete</button>
+            <div></div>
         </div>
 
         <div class="large-3 columns">
