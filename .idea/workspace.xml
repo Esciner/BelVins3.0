@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="a085e866-3c5b-475b-ba34-00ee60752ba8" name="Default" comment="">
 <<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/form.php" afterPath="$PROJECT_DIR$/templates/form.php" />
@@ -14,6 +15,9 @@
 =======
     <list default="true" id="a085e866-3c5b-475b-ba34-00ee60752ba8" name="Default" comment="" />
 >>>>>>> refs/remotes/Esciner/master
+=======
+    <list default="true" id="a085e866-3c5b-475b-ba34-00ee60752ba8" name="Default" comment="" />
+>>>>>>> Fondation
     <ignored path="BelVins3.0.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -36,6 +40,7 @@
 <<<<<<< HEAD
     <leaf>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vendor/foundation-6/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,6 +61,13 @@
             <state vertical-scroll-proportion="-9.115385">
               <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
 >>>>>>> refs/remotes/Esciner/master
+=======
+      <file leaf-file-name="form.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/templates/form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.76632303">
+              <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+>>>>>>> Fondation
               <folding />
             </state>
           </provider>
@@ -88,6 +100,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
 <<<<<<< HEAD
+<<<<<<< HEAD
               <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
 =======
               <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
@@ -103,6 +116,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="69" />
+>>>>>>> Fondation
               <folding />
 =======
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
@@ -122,6 +138,7 @@
       <file leaf-file-name="foundation.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/foundation-6/css/foundation.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="-7.2413793">
               <caret line="422" column="18" selection-start-line="422" selection-start-column="13" selection-end-line="422" selection-end-column="18" />
 =======
@@ -150,6 +167,10 @@
             <state vertical-scroll-proportion="-21.538462">
               <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
 >>>>>>> refs/remotes/Esciner/master
+=======
+            <state vertical-scroll-proportion="-22.48276">
+              <caret line="2205" column="77" selection-start-line="2205" selection-start-column="76" selection-end-line="2205" selection-end-column="77" />
+>>>>>>> Fondation
               <folding />
             </state>
           </provider>
@@ -157,6 +178,7 @@
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
   <component name="FileTemplateManagerImpl">
@@ -167,6 +189,15 @@
     </option>
   </component>
 >>>>>>> refs/remotes/Esciner/master
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+>>>>>>> Fondation
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -229,7 +260,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -247,6 +278,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+<<<<<<< HEAD
       <pane id="Scope" />
 =======
       <manualOrder />
@@ -254,6 +286,8 @@
     </navigator>
     <panes>
 >>>>>>> refs/remotes/Esciner/master
+=======
+>>>>>>> Fondation
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -398,10 +432,14 @@
         </subPane>
       </pane>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       <pane id="Scratches" />
       <pane id="Scope" />
 >>>>>>> refs/remotes/Esciner/master
+=======
+      <pane id="Scope" />
+>>>>>>> Fondation
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -476,11 +514,16 @@
   </component>
   <component name="ToolWindowManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
 <<<<<<< HEAD
     <editor active="false" />
 =======
     <editor active="true" />
+>>>>>>> Fondation
+=======
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="false" />
 >>>>>>> Fondation
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -604,7 +647,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
 >>>>>>> refs/remotes/Esciner/master
           <folding>
-            <element signature="e#6#62#0#PHP" expanded="true" />
+            <element signature="e#6#62#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -824,7 +867,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#6#62#0#PHP" expanded="true" />
+            <element signature="e#6#62#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -937,7 +980,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#6#62#0#PHP" expanded="true" />
+            <element signature="e#6#62#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -955,7 +998,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
-            <element signature="e#6#62#0#PHP" expanded="true" />
+            <element signature="e#6#62#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -973,7 +1016,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#6#62#0#PHP" expanded="true" />
+            <element signature="e#6#62#0#PHP" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1037,6 +1080,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="184" column="35" selection-start-line="184" selection-start-column="35" selection-end-line="184" selection-end-column="35" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#6#62#0#PHP" expanded="true" />
 =======
         </state>
@@ -1107,6 +1151,9 @@
             <marker date="1455889062169" expanded="true" signature="150844:150998" placeholder="ALTER TABLE $" />
             <marker date="1455889062169" expanded="true" signature="151333:151364" placeholder="DROP TABLE I... " />
 >>>>>>> refs/remotes/Esciner/master
+=======
+            <element signature="e#6#62#0#PHP" expanded="false" />
+>>>>>>> Fondation
           </folding>
         </state>
       </provider>
@@ -1142,6 +1189,7 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/vendor/foundation-6/css/foundation.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-7.2413793">
@@ -1152,10 +1200,17 @@
         <state vertical-scroll-proportion="-9.115385">
           <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
 >>>>>>> refs/remotes/Esciner/master
+=======
+    <entry file="file://$PROJECT_DIR$/templates/js/vins.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> Fondation
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/templates/form.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -1172,6 +1227,12 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
 >>>>>>> refs/remotes/Esciner/master
+=======
+    <entry file="file://$PROJECT_DIR$/vendor/foundation-6/css/foundation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-22.48276">
+          <caret line="2205" column="77" selection-start-line="2205" selection-start-column="76" selection-end-line="2205" selection-end-column="77" />
+>>>>>>> Fondation
           <folding />
         </state>
       </provider>
@@ -1186,15 +1247,20 @@
     <entry file="file://$PROJECT_DIR$/templates/js/ajax.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="69" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/js/vins.json">
+    <entry file="file://$PROJECT_DIR$/templates/form.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> Fondation
+=======
+        <state vertical-scroll-proportion="0.76632303">
+          <caret line="76" column="17" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
 >>>>>>> Fondation
           <folding />
 =======
